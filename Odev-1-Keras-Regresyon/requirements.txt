@@ -1,0 +1,5 @@
+keras>=3.10,<4
+torch>=2.2
+numpy>=1.26
+matplotlib>=3.8
+Pillow>=10
